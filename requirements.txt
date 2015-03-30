@@ -1,0 +1,9 @@
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+Pillow==2.7.0
+Werkzeug==0.10.4
+itsdangerous==0.24
+mjpeg-tools==0.0.13
+uWSGI==2.0.10
+wsgiref==0.1.2
